@@ -1,0 +1,8 @@
+2025-08-13 12:04:18.894 [info] update#setState idle
+2025-08-13 12:04:48.140 [info] update#setState checking for updates
+2025-08-13 12:04:48.271 [info] update#setState idle
+2025-08-13 12:05:17.171 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 12:06:07.238 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 12:06:15.445 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 12:06:47.044 [info] Extension host with pid 17561 exited with code: 0, signal: unknown.
+2025-08-13 12:06:48.257 [error] Extension host with pid 17561 still exists, forcefully killing it...

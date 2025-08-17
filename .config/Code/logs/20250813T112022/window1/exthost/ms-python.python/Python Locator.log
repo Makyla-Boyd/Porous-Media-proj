@@ -1,0 +1,46 @@
+2025-08-13 11:24:39.630 [info] Starting Python Locator /home/makylab/.vscode/extensions/ms-python.python-2025.12.0-linux-x64/python-env-tools/bin/pet server
+2025-08-13 11:24:40.939 [info] Discovered env: /bin/python3
+2025-08-13 11:24:40.952 [info] Discovered env: /usr/bin/python3
+2025-08-13 11:24:40.961 [info] Locator Conda took 532.321723ms
+2025-08-13 11:24:40.961 [info] Locator Homebrew took 21.139301ms
+2025-08-13 11:24:40.961 [info] Locator LinuxGlobal took 960.708354ms
+2025-08-13 11:24:40.961 [info] Locator PipEnv took 35.182487ms
+2025-08-13 11:24:40.961 [info] Locator Pixi took 1.588725ms
+2025-08-13 11:24:40.961 [info] Locator Poetry took 50.245563ms
+2025-08-13 11:24:40.962 [info] Locator PyEnv took 19.659384ms
+2025-08-13 11:24:40.962 [info] Locator Venv took 53.655µs
+2025-08-13 11:24:40.962 [info] Locator VirtualEnv took 40.278µs
+2025-08-13 11:24:40.962 [info] Locator VirtualEnvWrapper took 26.54305ms
+2025-08-13 11:24:40.962 [info] Locator GlobalVirtualEnvs took 28.491395ms
+2025-08-13 11:24:40.962 [info] Locator Locators took 994.878537ms
+2025-08-13 11:24:40.962 [info] Locator Path took 1.412900628s
+2025-08-13 11:24:40.962 [info] Locator Workspaces took 98.505126ms
+2025-08-13 11:24:40.963 [info] Refresh completed in 1415ms
+2025-08-13 11:24:41.126 [info] Resolved Python Environment /bin/python3
+2025-08-13 11:25:23.703 [info] Resolved Python Environment /bin/python3
+2025-08-13 11:54:32.934 [info] Resolved Python Environment /bin/python3
+2025-08-13 11:55:53.830 [info] Resolved Python Environment /bin/python3
+2025-08-13 11:56:40.760 [info] Resolved Python Environment /bin/python3
+2025-08-13 11:57:25.899 [info] Resolved Python Environment /bin/python3
+2025-08-13 11:57:55.933 [info] Resolved Python Environment /bin/python3
+2025-08-13 11:58:37.143 [info] Resolved Python Environment /bin/python3
+2025-08-13 11:59:42.974 [info] Discovered env: /usr/bin/python3
+2025-08-13 11:59:42.977 [info] Discovered env: /bin/python3
+2025-08-13 11:59:42.985 [info] Resolved Python Environment /bin/python3
+2025-08-13 11:59:43.080 [info] Locator Conda took 1.083297434s
+2025-08-13 11:59:43.081 [info] Locator Homebrew took 1.830651ms
+2025-08-13 11:59:43.088 [info] Locator LinuxGlobal took 850.046454ms
+2025-08-13 11:59:43.088 [info] Locator PipEnv took 25.797µs
+2025-08-13 11:59:43.088 [info] Locator Pixi took 81.438µs
+2025-08-13 11:59:43.088 [info] Locator Poetry took 43.276327ms
+2025-08-13 11:59:43.088 [info] Locator PyEnv took 19.280097ms
+2025-08-13 11:59:43.088 [info] Locator Venv took 27.571µs
+2025-08-13 11:59:43.088 [info] Locator VirtualEnv took 47.226µs
+2025-08-13 11:59:43.090 [info] Locator VirtualEnvWrapper took 89.71µs
+2025-08-13 11:59:43.094 [info] Locator GlobalVirtualEnvs took 16.24521ms
+2025-08-13 11:59:43.094 [info] Locator Locators took 1.084624544s
+2025-08-13 11:59:43.095 [info] Locator Path took 960.271501ms
+2025-08-13 11:59:43.095 [info] Locator Workspaces took 127.914026ms
+2025-08-13 11:59:43.095 [info] Refresh completed in 1084ms
+2025-08-13 11:59:48.514 [info] Resolved Python Environment /usr/bin/python3
+2025-08-13 12:00:37.244 [info] Resolved Python Environment /usr/bin/python3

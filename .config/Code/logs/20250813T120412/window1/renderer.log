@@ -1,0 +1,30 @@
+2025-08-13 12:04:22.758 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-13 12:04:22.783 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-13 12:04:22.784 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-13 12:04:24.336 [info] Started local extension host with pid 17561.
+2025-08-13 12:04:34.495 [error] Assertion Failed: Argument is `undefined` or `null`.: Error: Assertion Failed: Argument is `undefined` or `null`.
+    at es (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:238)
+    at Gt (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:1188)
+    at j.run (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3564:3683)
+    at handler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:33:32737)
+    at FEt.invokeFunction (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:674)
+    at kKe.n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1251:3984)
+    at kKe.executeCommand (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1251:3599)
+    at tH.tc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3381:28345)
+    at tH.Yb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3381:11171)
+    at HTMLButtonElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3381:10375)
+2025-08-13 12:04:34.625 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-08-13 12:04:36.889 [info] [perf] Render performance baseline is 64ms
+2025-08-13 12:04:37.537 [info] Extension host (LocalProcess pid: 17561) is unresponsive.
+2025-08-13 12:04:39.749 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-08-13 12:04:43.411 [error] [Extension Host] (node:17561) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-08-13 12:04:43.414 [info] Extension host (LocalProcess pid: 17561) is responsive.
+2025-08-13 12:04:43.417 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-08-13 12:04:45.040 [warning] UNRESPONSIVE extension host: 'github.copilot' took 53.8998054450849% of 1977.8ms, saved PROFILE here: 'file:///tmp/exthost-fbc4ac.cpuprofile'
+2025-08-13 12:04:47.866 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-13 12:05:20.646 [info] Extension host (LocalProcess pid: 17561) is unresponsive.
+2025-08-13 12:05:21.672 [info] Extension host (LocalProcess pid: 17561) is responsive.
+2025-08-13 12:05:21.729 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-08-13 12:05:40.077 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-08-13 12:06:48.444 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage

@@ -1,0 +1,39 @@
+2025-08-13 12:04:29.173 [info] Extension host with pid 17561 started
+2025-08-13 12:04:29.173 [info] Skipping acquiring lock for /home/makylab/.config/Code/User/workspaceStorage/69ccf2606daa7bd32d8e2604cc1c8df9.
+2025-08-13 12:04:30.817 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-13 12:04:31.092 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-13 12:04:31.682 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-13 12:04:32.353 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-13 12:04:34.098 [info] Eager extensions activated
+2025-08-13 12:04:34.490 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-13 12:04:34.516 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-13 12:04:34.584 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-08-13 12:04:41.950 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-08-13 12:04:47.843 [error] Error: GitHubLoginFailed
+    at fO._authShowWarnings (/home/makylab/.vscode/extensions/github.copilot-chat-0.30.0/dist/extension.js:552:55513)
+    at fO.getCopilotToken (/home/makylab/.vscode/extensions/github.copilot-chat-0.30.0/dist/extension.js:552:54052)
+    at X4.getCopilotToken (/home/makylab/.vscode/extensions/github.copilot-chat-0.30.0/dist/extension.js:418:24130)
+    at Ov._fetchModels (/home/makylab/.vscode/extensions/github.copilot-chat-0.30.0/dist/extension.js:2539:4949)
+    at Ov.getAllChatModels (/home/makylab/.vscode/extensions/github.copilot-chat-0.30.0/dist/extension.js:2539:2710)
+    at h8.getAllChatEndpoints (/home/makylab/.vscode/extensions/github.copilot-chat-0.30.0/dist/extension.js:2539:15672)
+2025-08-13 12:04:48.550 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onCommand:python.createNewFile'
+2025-08-13 12:04:52.808 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-08-13 12:04:53.862 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-08-13 12:04:58.256 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-08-13 12:04:58.818 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-13 12:05:00.566 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-08-13 12:06:34.191 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-08-13 12:06:44.881 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-13 12:06:46.194 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+    at Object.K [as deactivate] (/home/makylab/.vscode/extensions/ms-python.vscode-python-envs-1.2.0-linux-x64/dist/extension.js:2:618887)
+    at LZ.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at LZ.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at LZ.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at E3.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at ws (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:10154)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:6693)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-08-13 12:06:46.630 [info] Extension host with pid 17561 exiting with code 0

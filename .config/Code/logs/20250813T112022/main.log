@@ -1,0 +1,13 @@
+2025-08-13 11:20:24.284 [info] update#setState idle
+2025-08-13 11:20:53.489 [info] update#setState checking for updates
+2025-08-13 11:20:53.609 [info] update#setState idle
+2025-08-13 11:26:01.168 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 11:49:31.888 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 11:55:00.260 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 11:58:07.717 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 11:58:23.878 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 11:58:31.765 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 12:00:02.576 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 12:00:58.169 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 12:02:59.570 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-13 12:03:37.312 [info] Extension host with pid 16305 exited with code: 0, signal: unknown.

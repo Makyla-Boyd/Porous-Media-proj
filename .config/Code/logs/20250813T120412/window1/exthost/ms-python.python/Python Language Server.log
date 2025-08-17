@@ -1,0 +1,26 @@
+2025-08-13 12:05:02.084 [info] (Client) Pylance client (2025.7.1) started with python extension (2025.12.0)
+2025-08-13 12:05:08.082 [info] (17771) Server root directory: file:///home/makylab/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist
+2025-08-13 12:05:08.096 [info] (17771) Pylance language server 2025.7.1 (pyright version 1.1.403, commit 8b02aa84) starting
+2025-08-13 12:05:08.124 [info] (17771) Starting service instance "PM-proj-videos" for workspace "/mnt/chromeos/removable/LaCie/PM-proj-videos"
+2025-08-13 12:05:11.712 [info] (17771) Starting Mcp server id:4437 ...
+2025-08-13 12:05:13.542 [info] (17771) Setting environmentName for service "PM-proj-videos": "3.11.2 (global)"
+2025-08-13 12:05:13.545 [info] (17771) Setting pythonPath for service "PM-proj-videos": "/usr/bin/python3"
+2025-08-13 12:05:13.615 [info] (17771) No include entries specified; assuming /mnt/chromeos/removable/LaCie/PM-proj-videos
+2025-08-13 12:05:13.623 [info] (17771) Auto-excluding **/node_modules
+2025-08-13 12:05:13.624 [info] (17771) Auto-excluding **/__pycache__
+2025-08-13 12:05:13.629 [info] (17771) Auto-excluding **/.*
+2025-08-13 12:05:18.197 [info] (17771) Assuming Python version 3.11.2.final.0
+2025-08-13 12:05:20.928 [info] (17771) No source files found.
+2025-08-13 12:05:33.706 [info] (17771) Settings have not changed. Skipping update.
+2025-08-13 12:05:38.481 [info] (17771) BG: Priority queue background worker(2) root directory: file:///home/makylab/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist
+2025-08-13 12:05:38.484 [info] (17771) BG: Priority queue background worker(2) started
+2025-08-13 12:05:41.345 [info] (17771) BG: Indexer background runner(3) root directory: file:///home/makylab/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist (index)
+2025-08-13 12:05:41.348 [info] (17771) BG: Indexing(3) started
+2025-08-13 12:05:45.277 [info] (17771) BG: [BG(1)] Long operation: SemanticTokens range 0:0 - 3:3 at untitled:Untitled-1 (3540ms)
+2025-08-13 12:05:58.448 [info] (17771) BG: [IDX(3)] Long operation: scan packages file:///mnt/chromeos/removable/LaCie/PM-proj-videos (15856ms)
+2025-08-13 12:05:58.484 [info] (17771) BG: scanned(3) 206 files over 1 exec env
+2025-08-13 12:06:07.875 [info] (17771) BG: [IDX(3)] Long operation: indexing: file:///usr/lib/python3/dist-packages/argon2/__init__.py (3213ms)
+2025-08-13 12:06:21.767 [info] (17771) BG: [IDX(3)] Long operation: index execution environment file:///mnt/chromeos/removable/LaCie/PM-proj-videos (17709ms)
+2025-08-13 12:06:21.853 [info] (17771) BG: [IDX(3)] Long operation: index packages file:///mnt/chromeos/removable/LaCie/PM-proj-videos (18831ms)
+2025-08-13 12:06:21.856 [info] (17771) BG: indexed(3) 206 files over 1 exec env
+2025-08-13 12:06:22.187 [info] (17771) BG: Indexing finished(3).

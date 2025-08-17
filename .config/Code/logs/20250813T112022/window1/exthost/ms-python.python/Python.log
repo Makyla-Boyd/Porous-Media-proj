@@ -1,0 +1,15 @@
+2025-08-13 11:24:39.362 [info] Native locator: Refresh started
+2025-08-13 11:24:40.464 [info] Native locator: Refresh started
+2025-08-13 11:24:40.837 [info] > pyenv which python
+2025-08-13 11:24:40.837 [info] cwd: .
+2025-08-13 11:24:41.018 [info] Native locator: Refresh finished in 1617 ms
+2025-08-13 11:24:41.136 [info] Python interpreter path: /bin/python3
+2025-08-13 11:25:02.223 [info] Starting Pylance language server.
+2025-08-13 11:55:53.881 [info] CreateEnv Trigger - Workspace not found for Untitled-1
+2025-08-13 11:56:41.400 [info] Send text to terminal: /bin/python3 Untitled-1
+2025-08-13 11:57:57.267 [info] Send text to terminal: /bin/python3 Untitled-1
+2025-08-13 11:59:41.915 [info] Native locator: Refresh started
+2025-08-13 11:59:43.107 [info] Native locator: Refresh finished in 1215 ms
+2025-08-13 11:59:48.381 [info] Active interpreter [/mnt/chromeos/removable/LaCie/PM-proj-videos/code]:  /usr/bin/python3
+2025-08-13 11:59:48.522 [info] Discover tests for workspace name: code - uri: /mnt/chromeos/removable/LaCie/PM-proj-videos/code
+2025-08-13 11:59:48.522 [info] Python interpreter path: /usr/bin/python3

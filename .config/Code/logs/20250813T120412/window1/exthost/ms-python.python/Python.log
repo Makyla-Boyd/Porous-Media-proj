@@ -1,0 +1,9 @@
+2025-08-13 12:04:49.929 [info] Native locator: Refresh started
+2025-08-13 12:04:49.929 [info] Native locator: Refresh started
+2025-08-13 12:04:49.929 [info] > pyenv which python
+2025-08-13 12:04:49.929 [info] cwd: .
+2025-08-13 12:04:50.112 [info] Native locator: Refresh finished in 990 ms
+2025-08-13 12:04:52.112 [info] Python interpreter path: /usr/bin/python3
+2025-08-13 12:05:08.326 [info] Starting Pylance language server.
+2025-08-13 12:05:58.808 [info] CreateEnv Trigger - Workspace not found for Untitled-1
+2025-08-13 12:06:31.585 [info] Send text to terminal: /usr/bin/python3 Untitled-1

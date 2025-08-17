@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///mnt/chromeos/removable/LaCie/PM-proj-videos/Code/extract_vid_frames.py" added="2025-08-13T15:56:38.023242Z" modified="2025-08-13T15:56:38.023254Z" visited="2025-08-13T15:56:38.023244Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-13T15:56:38.023249Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/chromeos/removable/LaCie/PM-proj-videos/code/extract_vid_frames.py" added="2025-08-13T15:57:23.027008Z" modified="2025-08-13T15:57:23.027025Z" visited="2025-08-13T15:57:23.027011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-13T15:57:23.027018Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/chromeos/removable/LaCie/PM-proj-videos/code/from%20datetime%20import%20timedelta.py" added="2025-08-13T16:00:10.986340Z" modified="2025-08-13T16:00:10.986750Z" visited="2025-08-13T16:00:10.986713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-13T16:00:10.986734Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/chromeos/removable/LaCie/PM-proj-videos/Code/test.py" added="2025-08-13T16:06:26.541679Z" modified="2025-08-13T16:06:26.541690Z" visited="2025-08-13T16:06:26.541681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-13T16:06:26.541685Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

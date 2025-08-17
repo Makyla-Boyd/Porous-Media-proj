@@ -1,0 +1,1 @@
+2025-08-13 11:20:45.801 [error] [NotebookModelCollection] FAILED to destory notebook - Error: Unable to read file '/mnt/chromeos/removable/LaCie/PM-proj-videos/code/extract_frames.ipynb' (Unknown (FileSystemError): An unknown error occurred. Please consult the log for more details.)

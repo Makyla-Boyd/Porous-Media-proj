@@ -1,0 +1,67 @@
+2025-08-13 11:24:49.068 [info] (Client) Pylance client (2025.7.1) started with python extension (2025.12.0)
+2025-08-13 11:25:02.055 [info] (16628) Server root directory: file:///home/makylab/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist
+2025-08-13 11:25:02.090 [info] (16628) Pylance language server 2025.7.1 (pyright version 1.1.403, commit 8b02aa84) starting
+2025-08-13 11:25:02.162 [info] (16628) Starting service instance "code" for workspace "/mnt/chromeos/removable/LaCie/PM-proj-videos/code"
+2025-08-13 11:25:05.738 [info] (16628) Starting Mcp server id:5698 ...
+2025-08-13 11:25:07.510 [info] (16628) Setting environmentName for service "code": "3.11.2 (global)"
+2025-08-13 11:25:07.519 [info] (16628) Setting pythonPath for service "code": "/bin/python3"
+2025-08-13 11:25:07.569 [info] (16628) No include entries specified; assuming /mnt/chromeos/removable/LaCie/PM-proj-videos/code
+2025-08-13 11:25:07.627 [info] (16628) Auto-excluding **/node_modules
+2025-08-13 11:25:07.628 [info] (16628) Auto-excluding **/__pycache__
+2025-08-13 11:25:07.727 [info] (16628) Auto-excluding **/.*
+2025-08-13 11:25:07.739 [info] (16628) Assuming Python version 3.11.2.final.0
+2025-08-13 11:25:09.120 [info] (16628) No source files found.
+2025-08-13 11:25:10.094 [info] (16628) Settings have not changed. Skipping update.
+2025-08-13 11:25:13.906 [info] (16628) BG: Priority queue background worker(2) root directory: file:///home/makylab/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist
+2025-08-13 11:25:13.986 [info] (16628) BG: Priority queue background worker(2) started
+2025-08-13 11:25:27.452 [info] (16628) BG: [BG(1)] Long operation: analyzing: untitled:Untitled-1 (2632ms)
+2025-08-13 11:25:29.958 [info] (16628) BG: Indexer background runner(3) root directory: file:///home/makylab/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist (index)
+2025-08-13 11:25:29.961 [info] (16628) BG: Indexing(3) started
+2025-08-13 11:25:33.445 [info] (16628) BG: [IDX(3)] Long operation: scan packages file:///mnt/chromeos/removable/LaCie/PM-proj-videos/code (3002ms)
+2025-08-13 11:25:33.445 [info] (16628) BG: scanned(3) 206 files over 1 exec env
+2025-08-13 11:25:38.734 [info] (16628) BG: [IDX(3)] Long operation: indexing: file:///home/makylab/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist/bundled/stubs/sympy-stubs/__init__.pyi (2589ms)
+2025-08-13 11:25:46.726 [info] (16628) BG: [IDX(3)] Long operation: index execution environment file:///mnt/chromeos/removable/LaCie/PM-proj-videos/code (12307ms)
+2025-08-13 11:25:47.652 [info] (16628) BG: [IDX(3)] Long operation: index packages file:///mnt/chromeos/removable/LaCie/PM-proj-videos/code (13621ms)
+2025-08-13 11:25:47.653 [info] (16628) BG: indexed(3) 206 files over 1 exec env
+2025-08-13 11:25:48.341 [info] (16628) BG: Indexing finished(3).
+2025-08-13 11:54:32.439 [info] (16628) Starting service instance "<default>" for workspace ""
+2025-08-13 11:54:33.854 [info] (16628) Setting environmentName for service "<default>": "3.11.2 (global)"
+2025-08-13 11:54:33.854 [info] (16628) Setting pythonPath for service "<default>": "/bin/python3"
+2025-08-13 11:54:33.857 [info] (16628) No include entries specified; assuming /<default workspace root>
+2025-08-13 11:54:33.857 [info] (16628) Auto-excluding **/node_modules
+2025-08-13 11:54:33.862 [info] (16628) Auto-excluding **/__pycache__
+2025-08-13 11:54:33.869 [info] (16628) Auto-excluding **/.*
+2025-08-13 11:54:34.823 [info] (16628) Assuming Python version 3.11.2.final.0
+2025-08-13 11:54:38.475 [error] (16628) File or directory "/<default workspace root>" does not exist.
+2025-08-13 11:54:38.497 [info] (16628) No source files found.
+2025-08-13 11:54:43.090 [info] (16628) BG: Priority queue background worker(5) root directory: file:///home/makylab/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist
+2025-08-13 11:54:43.134 [info] (16628) BG: Priority queue background worker(5) started
+2025-08-13 11:55:00.643 [info] (16628) BG: [BG(1)] Long operation: SemanticTokens delta previousResultId:1755100492077 at untitled:Untitled-1 (4777ms)
+2025-08-13 11:59:48.899 [info] (16628) Setting environmentName for service "code": "3.11.2 (global)"
+2025-08-13 11:59:48.911 [info] (16628) Setting pythonPath for service "code": "/usr/bin/python3"
+2025-08-13 11:59:48.914 [info] (16628) No include entries specified; assuming /mnt/chromeos/removable/LaCie/PM-proj-videos/code
+2025-08-13 11:59:48.914 [info] (16628) Auto-excluding **/node_modules
+2025-08-13 11:59:48.914 [info] (16628) Auto-excluding **/__pycache__
+2025-08-13 11:59:48.916 [info] (16628) Auto-excluding **/.*
+2025-08-13 11:59:49.270 [info] (16628) Assuming Python version 3.11.2.final.0
+2025-08-13 11:59:49.815 [info] (16628) No source files found.
+2025-08-13 11:59:51.036 [info] (16628) Setting environmentName for service "<default>": "3.11.2 (global)"
+2025-08-13 11:59:51.342 [info] (16628) Setting pythonPath for service "<default>": "/usr/bin/python3"
+2025-08-13 11:59:51.644 [info] (16628) No include entries specified; assuming /<default workspace root>
+2025-08-13 11:59:51.649 [info] (16628) Auto-excluding **/node_modules
+2025-08-13 11:59:51.649 [info] (16628) Auto-excluding **/__pycache__
+2025-08-13 11:59:51.649 [info] (16628) Auto-excluding **/.*
+2025-08-13 11:59:53.334 [info] (16628) Assuming Python version 3.11.2.final.0
+2025-08-13 11:59:55.655 [error] (16628) File or directory "/<default workspace root>" does not exist.
+2025-08-13 11:59:55.684 [info] (16628) No source files found.
+2025-08-13 12:00:04.916 [info] (16628) BG: [BG(1)] Long operation: parsing: untitled:Untitled-1 (4803ms)
+2025-08-13 12:00:13.273 [info] (16628) BG: [BG(1)] Long operation: parsing: file:///usr/lib/python3/dist-packages/numpy/__init__.pyi (2656ms)
+2025-08-13 12:00:14.072 [info] (16628) BG: [BG(1)] Long operation: checking: untitled:Untitled-1 (8362ms)
+2025-08-13 12:00:14.084 [info] (16628) BG: [BG(1)] Long operation: analyzing: untitled:Untitled-1 (13993ms)
+2025-08-13 12:00:14.084 [info] (16628) BG: Indexer background runner(6) root directory: file:///home/makylab/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist (index)
+2025-08-13 12:00:14.088 [info] (16628) BG: Indexing(6) started
+2025-08-13 12:00:19.070 [info] (16628) BG: [IDX(6)] Long operation: scan packages file:///mnt/chromeos/removable/LaCie/PM-proj-videos/code (2601ms)
+2025-08-13 12:00:19.075 [info] (16628) BG: scanned(6) 206 files over 1 exec env
+2025-08-13 12:00:27.005 [info] (16628) BG: [IDX(6)] Long operation: index packages file:///mnt/chromeos/removable/LaCie/PM-proj-videos/code (3440ms)
+2025-08-13 12:00:27.015 [info] (16628) BG: indexed(6) 206 files over 1 exec env
+2025-08-13 12:00:28.651 [info] (16628) BG: Indexing finished(6).

@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/mnt/chromeos/removable/LaCie/PM-proj-videos/code",
+  "password": false,
+  "pid": 13495,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "7820a33dd838b90486fb6a2347f3662776446225af050d71",
+  "url": "http://localhost:8888/"
+}

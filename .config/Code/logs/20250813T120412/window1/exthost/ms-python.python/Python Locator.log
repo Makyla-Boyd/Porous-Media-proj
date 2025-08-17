@@ -1,0 +1,21 @@
+2025-08-13 12:04:49.929 [info] Starting Python Locator /home/makylab/.vscode/extensions/ms-python.python-2025.12.0-linux-x64/python-env-tools/bin/pet server
+2025-08-13 12:04:49.960 [info] Discovered env: /usr/bin/python3
+2025-08-13 12:04:50.000 [info] Discovered env: /bin/python3
+2025-08-13 12:04:50.030 [info] Locator Conda took 518.020813ms
+2025-08-13 12:04:50.030 [info] Locator Homebrew took 189.812µs
+2025-08-13 12:04:50.030 [info] Locator LinuxGlobal took 303.770955ms
+2025-08-13 12:04:50.030 [info] Locator PipEnv took 29.033µs
+2025-08-13 12:04:50.034 [info] Locator Pixi took 24.02µs
+2025-08-13 12:04:50.034 [info] Locator Poetry took 13.586177ms
+2025-08-13 12:04:50.034 [info] Locator PyEnv took 3.971333ms
+2025-08-13 12:04:50.035 [info] Locator Venv took 74.482µs
+2025-08-13 12:04:50.035 [info] Locator VirtualEnv took 45.259µs
+2025-08-13 12:04:50.035 [info] Locator VirtualEnvWrapper took 27.173µs
+2025-08-13 12:04:50.035 [info] Locator GlobalVirtualEnvs took 1.944479ms
+2025-08-13 12:04:50.039 [info] Locator Locators took 522.9389ms
+2025-08-13 12:04:50.039 [info] Locator Path took 376.295716ms
+2025-08-13 12:04:50.039 [info] Locator Workspaces took 86.544931ms
+2025-08-13 12:04:50.040 [info] Refresh completed in 526ms
+2025-08-13 12:04:51.990 [info] Resolved Python Environment /usr/bin/python3
+2025-08-13 12:05:58.729 [info] Resolved Python Environment /usr/bin/python3
+2025-08-13 12:06:30.888 [info] Resolved Python Environment /usr/bin/python3
